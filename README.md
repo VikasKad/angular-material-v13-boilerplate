@@ -1,4 +1,7 @@
-# MisFrontend
+# Angular(v13) Material Boilerplate
+
+This boilerplate will help you to setup your angular application quickly and can start adding your components easily.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.10.
 
